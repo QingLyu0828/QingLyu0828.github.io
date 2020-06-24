@@ -58,4 +58,4 @@ Conference
 
 Patent
 ------
-1. A synergized pulsing-imaging network (spin). WO2019113428A1. [link](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2019113428&_cid=P22-KBSTI1-51183-1)
+1. Ge Wang, Qing Lyu, and Tao Xu. "A synergized pulsing-imaging network (spin)." WO2019113428A1. [link](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2019113428&_cid=P22-KBSTI1-51183-1)
