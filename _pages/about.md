@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Education"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Undergraduate
-* B.S. in Shanghai Jiao Tong University, Department of Biomedical Engineering, 2009-2013
+I am a graduate student in Department of Biomedical Engineering, Rensselaer Polytechnic Institute. Since 2017, I have joined Prof. Ge Wang's AI-based X-ray Imaging System Lab. 
 
-Graduate
+Education
+======
+* B.S. in Shanghai Jiao Tong University, Department of Biomedical Engineering, 2009-2013
 * M.S. in Shanghai Jiao Tong University, Department of Biomedical Engineering, 2013-2016
 * Ph.D. in Rensselear Polytechnic Institute, Department of Biomedical Engineering, 2017-present
 
