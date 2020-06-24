@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in Department of Biomedical Engineering, Rensselaer Polytechnic Institute. Since 2017, I have joined Prof. Ge Wang's AI-based X-ray Imaging System Lab. I mainly focus on deep learning based magnetic resonance imaging reconstruction related studies, such as fast MRI, MRI super-resolution, cardiac MRI motion artifact reduction, and so on. I have been acting as the reviewer for MICCAI 2020, IEEE Transactions on Computational imaging, IEEE Transactions on Medical Imaging, and IEEE Access.
+I am a graduate student in Department of Biomedical Engineering, Rensselaer Polytechnic Institute. Since 2017, I have joined Prof. Ge Wang's [AI-based X-ray Imaging System Lab](https://wang-axis.github.io/). I mainly focus on deep learning based magnetic resonance imaging reconstruction related studies, such as fast MRI, MRI super-resolution, cardiac MRI motion artifact reduction, and so on. I have been acting as the reviewer for MICCAI 2020, IEEE Transactions on Computational imaging, IEEE Transactions on Medical Imaging, and IEEE Access.
 
 Education
 ======
