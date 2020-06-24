@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 Undergraduate
-* B.S.  2009-2013     Shanghai Jiao Tong University, Department of Biomedical Engineering
+* B.S. in Shanghai Jiao Tong University, Department of Biomedical Engineering, 2009-2013
 
 Graduate
-* M.S.  2013-2016     Shanghai Jiao Tong University, Department of Biomedical Engineering
-* Ph.D. 2017-present  Rensselear Polytechnic Institute, Department of Biomedical Engineering
+* M.S. in Shanghai Jiao Tong University, Department of Biomedical Engineering, 2013-2016
+* Ph.D. in Rensselear Polytechnic Institute, Department of Biomedical Engineering, 2017-present
 
 Research interest
 ======
