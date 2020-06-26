@@ -30,9 +30,9 @@ Publication
 
 Preprint
 ------
-1. **Qing Lyu**, Tao Xu, Hongming Shan, and Ge Wang. "A Synergized Pulsing-Imaging Network (SPIN)." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1805/1805.12006.pdf)
+1. **Qing Lyu**, Hongming Shan, Yibin Xie, Debiao Li, and Ge Wang. "Cine Cardiac MRI Motion Artifact Reduction Using a Recurrent Neural Network." arXiv preprint. [pdf](https://arxiv.org/pdf/2006.12700.pdf)
 2. **Qing Lyu**, and Ge Wang. "Quantitative MRI: Absolute T1, T2 and Proton Density Parameters from Deep Learning." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1806/1806.07453.pdf)
-3. **Qing Lyu**, Hongming Shan, Yibin Xie, Debiao Li, and Ge Wang. "Cine Cardiac MRI Motion Artifact Reduction Using a Recurrent Neural Network." arXiv preprint. [pdf](https://arxiv.org/pdf/2006.12700.pdf)
+3. **Qing Lyu**, Tao Xu, Hongming Shan, and Ge Wang. "A Synergized Pulsing-Imaging Network (SPIN)." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1805/1805.12006.pdf)
 
 Journal
 ------
