@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in Department of Biomedical Engineering, Rensselaer Polytechnic Institute. Since 2017, I have joined Prof. Ge Wang's [AI-based X-ray Imaging System Lab](https://wang-axis.github.io/). I mainly focus on deep learning based magnetic resonance imaging reconstruction related studies, such as fast MRI, MRI super-resolution, cardiac MRI motion artifact reduction, and so on. I have been acting as the reviewer for MICCAI 2020, IEEE Transactions on Computational imaging, IEEE Transactions on Medical Imaging, and IEEE Access.
+I am a graduate student in Department of Biomedical Engineering, Rensselaer Polytechnic Institute. Since 2017, I have joined Prof. Ge Wang's [AI-based X-ray Imaging System Lab](https://wang-axis.github.io/). My primary research interest is in combination of medical imaging with deep learning for diagnosis and treatment. I have been acting as the reviewer for MICCAI 2020, IEEE Transactions on Computational imaging, IEEE Transactions on Medical Imaging, and IEEE Access.
 
 Education
 ======
@@ -18,30 +18,33 @@ Education
 
 Research interest
 ======
-* fast MRI: using deep learning to post-process under-sampled MRI images to improve image quality and boost the acquisition process.
-* MRI pulse sequence optimization: using neural networks to design personalized pulse sequences for patient's MRI scan.
-* cardiac motion artifact reduction: training recurrent networks to extract spatio-temporal features for motion artifact reduction.
-* cardiac motion prediction
-* multi-contrast synthesis
-* contrast enhancenment prediction
+* Medical Image Analysis
+* Deep Learning
+* Radiomics
+* Magnetic Resonance
+* AI-based Disease Diagnosis
+* AI-based Disease Treatment
 
 Publication
 ======
 
 Preprint
 ------
-1. **Qing Lyu**, Hongming Shan, Yibin Xie, Debiao Li, and Ge Wang. "Cine Cardiac MRI Motion Artifact Reduction Using a Recurrent Neural Network." arXiv preprint. [pdf](https://arxiv.org/pdf/2006.12700.pdf)
-2. **Qing Lyu**, and Ge Wang. "Quantitative MRI: Absolute T1, T2 and Proton Density Parameters from Deep Learning." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1806/1806.07453.pdf)
-3. **Qing Lyu**, Tao Xu, Hongming Shan, and Ge Wang. "A Synergized Pulsing-Imaging Network (SPIN)." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1805/1805.12006.pdf)
+1. **Qing Lyu**, Sanjeev V. Namjoshi, Emory McTyre, Umit Topaloglu, Richard Barcus, Michael D. Chan, Christina K. Cramer, Waldemar Debinski, Metin N. Gurcan, Glenn J. Lesser, Hui-Kuan Lin, Reginald F. Munden, Boris C. Pasche, Kiran Kumar Solingapuram Sai, Roy E. Strowd, Stephen B. Tatter, Kounosuke Watabe, Wei Zhang, Ge Wang, and Christopher T. Whitlow. "A transformer-based deep learning approach for classifying brain metastases into primary organ sites using clinical whole brain MRI." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/2110/2110.03588.pdf)
+2. **Qing Lyu**, Chenyu You, Hongming Shan, and Ge Wang. "Super-resolution MRI through deep learning." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1810/1810.06776.pdf)
+3. **Qing Lyu**, and Ge Wang. "Quantitative MRI: Absolute T1, T2 and Proton Density Parameters from Deep Learning." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1806/1806.07453.pdf)
+4. **Qing Lyu**, Tao Xu, Hongming Shan, and Ge Wang. "A Synergized Pulsing-Imaging Network (SPIN)." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1805/1805.12006.pdf)
 
 Journal
 ------
-1. **Qing Lyu**, Hongming Shan, Cole Steber, Corbin Helis, Christopher T. Whitlow, Michael Chan, and Ge Wang. "Multi-contrast super-resolution mri through a progressive network." IEEE Transactions on Medical Imaging, 2020. [link](https://ieeexplore.ieee.org/abstract/document/9001105)
-2. **Qing Lyu**, Hongming Shan, and Ge Wang. "MRI super-resolution with ensemble learning and complementary priors." IEEE Transactions on Computational Imaging, 2020. [link](https://ieeexplore.ieee.org/abstract/document/8950304)
-3. Yueyang Teng, Shouliang Qi, Fangfang Han, Yudong Yao, Fenglei Fan, **Qing Lyu**, and Ge Wang. "A framework for least squares nonnegative matrix factorizations with Tikhonov regularization." Neurocomputing, 2020. [link](https://www.sciencedirect.com/science/article/abs/pii/S0925231220300217)
-4. **Qing Lyu**, Zhuofan Lu, Heng Li, Shirong Qiu, Jiahui Guo, Xiaohong Sui, Pengcheng Sun, Liming Li, Xinyu Chai, and Nigel H. Lovell. "A Three-Dimensional Microelectrode Array to Generate Virtual Electrodes for Epiretinal Prosthesis Based on a Modeling Study." International Journal of Neural Systems, 2020. [link](https://www.worldscientific.com/doi/abs/10.1142/S0129065720500069)
-5. Jing Wang, Heng Li, Weizhen Fu, Yao Chen, Liming Li, **Qing Lyu**, Tingting Han, and Xinyu Chai. "Image processing strategies based on a visual saliency model for object recognition under simulated prosthetic vision." Artificial organs, 2016. [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/aor.12498)
-6. Xun Cao, Xiaohong Sui, **Qing Lyu**, Liming Li, and Xinyu Chai. "Effects of different three-dimensional electrodes on epiretinal electrical stimulation by modeling analysis." Journal of neuroengineering and rehabilitation, 2015. [link](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-015-0065-x)
+1. **Qing Lyu**, Hongming Shan, Yibin Xie, Alan C Kwan, Yuka Otaki, Keiichiro Kuronuma, Debiao Li, and Ge Wang. "Cine cardiac mri motion artifact reduction using a recurrent neural network." IEEE Transactions on Medical Imaging, 2021. [link](https://ieeexplore.ieee.org/abstract/document/9405626)
+2. **Qing Lyu**, Hongming Shan, Cole Steber, Corbin Helis, Christopher T. Whitlow, Michael Chan, and Ge Wang. "Multi-contrast super-resolution mri through a progressive network." IEEE Transactions on Medical Imaging, 2020. [link](https://ieeexplore.ieee.org/abstract/document/9001105)
+3. **Qing Lyu**, Hongming Shan, and Ge Wang. "MRI super-resolution with ensemble learning and complementary priors." IEEE Transactions on Computational Imaging, 2020. [link](https://ieeexplore.ieee.org/abstract/document/8950304)
+4. **Qing Lyu**, Zhuofan Lu, Heng Li, Shirong Qiu, Jiahui Guo, Xiaohong Sui, Pengcheng Sun, Liming Li, Xinyu Chai, and Nigel H Lovell. "A three-dimensional microelectrode array to generate virtual electrodes for epiretinal prosthesis based on a modeling study." International journal of neural systems, 2020. [link](https://www.worldscientific.com/doi/abs/10.1142/S0129065720500069)
+5. Xiaodong Guo, Yiming Lei, Peng He, Wenbing Zeng, Ran Yang, Yinjin Ma, Peng Feng, **Qing Lyu**, Ge Wang, and Hongming Shan. "An ensemble learning method based on ordinal regression for COVID-19 diagnosis from chest CT." Physics in Medicine & Biology, 2021. [link](https://iopscience.iop.org/article/10.1088/1361-6560/ac34b2/meta)
+6. Yueyang Teng, Shouliang Qi, Fangfang Han, Yudong Yao, Fenglei Fan, **Qing Lyu**, and Ge Wang. "A framework for least squares nonnegative matrix factorizations with Tikhonov regularization." Neurocomputing, 2020. [link](https://www.sciencedirect.com/science/article/abs/pii/S0925231220300217)
+7. Jing Wang, Heng Li, Weizhen Fu, Yao Chen, Liming Li, **Qing Lyu**, Tingting Han, and Xinyu Chai. "Image processing strategies based on a visual saliency model for object recognition under simulated prosthetic vision." Artificial organs, 2016. [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/aor.12498)
+8. Xun Cao, Xiaohong Sui, **Qing Lyu**, Liming Li, and Xinyu Chai. "Effects of different three-dimensional electrodes on epiretinal electrical stimulation by modeling analysis." Journal of neuroengineering and rehabilitation, 2015. [link](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-015-0065-x)
 
 Conference
 ------
