@@ -24,9 +24,9 @@ Teaching
 
 Research interest
 ======
-* Deep Learning-based Medical Image Analysis
-* Network Explainability, Uncertainty, and Robustness 
-* Deep radiomics and deep rawdiomics
+* Deep Learning-based Medical Image Analysis: Improve medical image quality, fasten data acquisition, and assist disease diagnosis & treatment
+* Network Explainability, Uncertainty, and Robustness: Investigate neural network working principles to improve performance on medical applications
+* Deep radiomics and deep rawdiomics: Combine deep learning with radiomics and rawdiomics to improve disease diagnostic, prognostic, and predictive accuracy
 
 Publication
 ======
