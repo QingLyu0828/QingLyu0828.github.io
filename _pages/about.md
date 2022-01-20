@@ -30,7 +30,6 @@ Research interest
 
 Publication
 ======
-
 Preprint
 ------
 1. **Qing Lyu**, Christopher T. Whitlow, and Ge Wang,. "SoftDropConnect (SDC): A Method to Quantify Network Uncertainty in MR Image Analysis." arXiv preprint.
