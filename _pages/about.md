@@ -18,18 +18,19 @@ Education
 
 Teaching
 ======
-* Introduction to engineering analysis, teaching assistant, Fall 2017
-* BioMEMS, teaching assistant, Spring 2018
-* Biomechanics and soft tissue, teaching assistant, Spring 2018
+* **Introduction to engineering analysis**, teaching assistant, Fall 2017
+* **BioMEMS**, teaching assistant, Spring 2018
+* **Biomechanics and soft tissue**, teaching assistant, Spring 2018
 
 Research interest
 ======
-* Deep Learning-based Medical Image Analysis: Improve medical image quality, fasten data acquisition, and assist disease diagnosis & treatment
-* Network Explainability, Uncertainty, and Robustness: Investigate neural network working principles to improve performance on medical applications
-* Deep radiomics and deep rawdiomics: Combine deep learning with radiomics and rawdiomics to improve disease diagnostic, prognostic, and predictive accuracy
+* **Deep Learning-based Medical Image Analysis:** Improve medical image quality, fasten data acquisition, and assist disease diagnosis & treatment
+* **Network Explainability, Uncertainty, and Robustness:** Investigate neural network working principles to improve performance on medical applications
+* **Deep radiomics and deep rawdiomics:** Combine deep learning with radiomics and rawdiomics to improve disease diagnostic, prognostic, and predictive accuracy
 
 Publication
 ======
+
 Preprint
 ------
 1. **Qing Lyu**, Christopher T. Whitlow, and Ge Wang,. "SoftDropConnect (SDC): A Method to Quantify Network Uncertainty in MR Image Analysis." arXiv preprint.
