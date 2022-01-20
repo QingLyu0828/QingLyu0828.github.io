@@ -24,12 +24,9 @@ Teaching
 
 Research interest
 ======
-* Medical Image Analysis
-* Deep Learning
-* Radiomics
-* Magnetic Resonance Imaging
-* AI-based Disease Diagnosis
-* AI-based Disease Treatment
+* Deep Learning-based Medical Image Analysis
+* Network Explainability, Uncertainty, and Robustness 
+* Deep radiomics and deep rawdiomics
 
 Publication
 ======
