@@ -27,7 +27,7 @@ Research interest
 * Medical Image Analysis
 * Deep Learning
 * Radiomics
-* Magnetic Resonance
+* Magnetic Resonance Imaging
 * AI-based Disease Diagnosis
 * AI-based Disease Treatment
 
