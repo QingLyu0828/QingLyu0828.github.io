@@ -24,9 +24,12 @@ Teaching
 
 Research interest
 ======
-* **Deep Learning-based Medical Image Analysis:** Improve medical image quality, fasten data acquisition, and assist disease diagnosis & treatment
-* **Network Explainability, Uncertainty, and Robustness:** Investigate neural network working principles to improve performance on medical applications
-* **Deep radiomics and deep rawdiomics:** Combine deep learning with radiomics and rawdiomics to improve disease diagnostic, prognostic, and predictive accuracy
+* **Deep radiomics/rawdiomics**: The utilization of neural networks to extract features from medical images for medical applications such as tumor detection, or from tomographic data directly (deep rawdiomics). 
+* **Hybrid/prompt learning**: The prompt learning scheme to implement disease diagnostics and treatment
+* **Medical instrumentation innovation**: AI-empowered system prototyping to synergize data acquisition and image reconstruction for targeted applications. 
+* **Generalizability of neural networks**: Investigate network generalizability so that it can be deployed on different imaging instruments for various tasks
+* **Robustness of neural networks**: Improve network robustness so that the network can perform well on data with various noise levels, adversarial attacks, and out-of-distribution data.
+* **Uncertainty of neural networks**: Quantify network uncertainty and show the reliability of predictions.
 
 Publication
 ======
