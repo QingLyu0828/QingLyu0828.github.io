@@ -18,9 +18,9 @@ Education
 
 Teaching
 ======
-* **Introduction to engineering analysis**, teaching assistant, Fall 2017
-* **BioMEMS**, teaching assistant, Spring 2018
-* **Biomechanics and soft tissue**, teaching assistant, Spring 2018
+* **Introduction to engineering analysis**, Teaching Assistant, Fall 2017
+* **BioMEMS**, Teaching Assistant, Spring 2018
+* **Biomechanics and soft tissue**, Teaching Assistant, Spring 2018
 
 Research interest
 ======
