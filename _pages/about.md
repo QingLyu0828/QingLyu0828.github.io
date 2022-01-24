@@ -36,7 +36,7 @@ Publication
 
 Preprint
 ------
-1. **Qing Lyu**, Christopher T. Whitlow, and Ge Wang,. "SoftDropConnect (SDC): A Method to Quantify Network Uncertainty in MR Image Analysis." arXiv preprint.
+1. **Qing Lyu**, Christopher T. Whitlow, and Ge Wang,. "SoftDropConnect (SDC): A Method to Quantify Network Uncertainty in MR Image Analysis." arXiv preprint. [pdf](https://arxiv.org/pdf/2201.08418.pdf)
 2. **Qing Lyu**, Sanjeev V. Namjoshi, Emory McTyre, Umit Topaloglu, Richard Barcus, Michael D. Chan, Christina K. Cramer, Waldemar Debinski, Metin N. Gurcan, Glenn J. Lesser, Hui-Kuan Lin, Reginald F. Munden, Boris C. Pasche, Kiran Kumar Solingapuram Sai, Roy E. Strowd, Stephen B. Tatter, Kounosuke Watabe, Wei Zhang, Ge Wang, and Christopher T. Whitlow. "A transformer-based deep learning approach for classifying brain metastases into primary organ sites using clinical whole brain MRI." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/2110/2110.03588.pdf)
 3. **Qing Lyu**, Chenyu You, Hongming Shan, and Ge Wang. "Super-resolution MRI through deep learning." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1810/1810.06776.pdf)
 4. **Qing Lyu**, and Ge Wang. "Quantitative MRI: Absolute T1, T2 and Proton Density Parameters from Deep Learning." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1806/1806.07453.pdf)
