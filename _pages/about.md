@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in Department of Biomedical Engineering, Rensselaer Polytechnic Institute. Since 2017, I have joined Prof. Ge Wang's [AI-based X-ray Imaging System Lab](https://wang-axis.github.io/). My primary research interest is in combination of medical imaging with deep learning for diagnosis and treatment. I have been acting as the reviewer for MICCAI 2020, IEEE Transactions on Computational imaging, IEEE Transactions on Medical Imaging, and IEEE Access.
+I am a Postdoc Research Associate in Prof. Ge Wang's lab of Rensselaer Polytechnic Institute. Since 2017, I have joined Prof. Ge Wang's [AI-based X-ray Imaging System Lab](https://wang-axis.github.io/) and obtained PhD degree this year. My primary research interest is in combination of medical imaging with deep learning for diagnosis and treatment. I have been acting as the reviewer for MICCAI, IEEE Transactions on Computational imaging, IEEE Transactions on Medical Imaging, IEEE Journal of Biomedical and Health Informatics, IEEE Access, and Medical Physics.
 
 Education
 ======
 * B.S. in Shanghai Jiao Tong University, Department of Biomedical Engineering, 2009-2013
 * M.S. in Shanghai Jiao Tong University, Department of Biomedical Engineering, 2013-2016
-* Ph.D. in Rensselear Polytechnic Institute, Department of Biomedical Engineering, 2017-now
+* Ph.D. in Rensselear Polytechnic Institute, Department of Biomedical Engineering, 2017-2022
 
 Teaching
 ======
