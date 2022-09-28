@@ -40,11 +40,12 @@ Publication
 
 Preprint
 ------
-1. **Qing Lyu**, Christopher T. Whitlow, and Ge Wang,. "SoftDropConnect (SDC): A Method to Quantify Network Uncertainty in MR Image Analysis." arXiv preprint. [pdf](https://arxiv.org/pdf/2201.08418.pdf)
-2. **Qing Lyu**, Sanjeev V. Namjoshi, Emory McTyre, Umit Topaloglu, Richard Barcus, Michael D. Chan, Christina K. Cramer, Waldemar Debinski, Metin N. Gurcan, Glenn J. Lesser, Hui-Kuan Lin, Reginald F. Munden, Boris C. Pasche, Kiran Kumar Solingapuram Sai, Roy E. Strowd, Stephen B. Tatter, Kounosuke Watabe, Wei Zhang, Ge Wang, and Christopher T. Whitlow. "A transformer-based deep learning approach for classifying brain metastases into primary organ sites using clinical whole brain MRI." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/2110/2110.03588.pdf)
-3. **Qing Lyu**, Chenyu You, Hongming Shan, and Ge Wang. "Super-resolution MRI through deep learning." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1810/1810.06776.pdf)
-4. **Qing Lyu**, and Ge Wang. "Quantitative MRI: Absolute T1, T2 and Proton Density Parameters from Deep Learning." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1806/1806.07453.pdf)
-5. **Qing Lyu**, Tao Xu, Hongming Shan, and Ge Wang. "A Synergized Pulsing-Imaging Network (SPIN)." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1805/1805.12006.pdf)
+1. **Qing Lyu**, and Ge Wang. "Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models." arXiv preprint. [pdf](https://https://arxiv.org/pdf/2209.12104.pdf)
+2. **Qing Lyu**, Christopher T. Whitlow, and Ge Wang. "SoftDropConnect (SDC): A Method to Quantify Network Uncertainty in MR Image Analysis." arXiv preprint. [pdf](https://arxiv.org/pdf/2201.08418.pdf)
+3. **Qing Lyu**, Sanjeev V. Namjoshi, Emory McTyre, Umit Topaloglu, Richard Barcus, Michael D. Chan, Christina K. Cramer, Waldemar Debinski, Metin N. Gurcan, Glenn J. Lesser, Hui-Kuan Lin, Reginald F. Munden, Boris C. Pasche, Kiran Kumar Solingapuram Sai, Roy E. Strowd, Stephen B. Tatter, Kounosuke Watabe, Wei Zhang, Ge Wang, and Christopher T. Whitlow. "A transformer-based deep learning approach for classifying brain metastases into primary organ sites using clinical whole brain MRI." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/2110/2110.03588.pdf)
+4. **Qing Lyu**, Chenyu You, Hongming Shan, and Ge Wang. "Super-resolution MRI through deep learning." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1810/1810.06776.pdf)
+5. **Qing Lyu**, and Ge Wang. "Quantitative MRI: Absolute T1, T2 and Proton Density Parameters from Deep Learning." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1806/1806.07453.pdf)
+6. **Qing Lyu**, Tao Xu, Hongming Shan, and Ge Wang. "A Synergized Pulsing-Imaging Network (SPIN)." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1805/1805.12006.pdf)
 
 Journal
 ------
@@ -68,3 +69,4 @@ Conference
 Patent
 ------
 1. Ge Wang, **Qing Lyu**, and Tao Xu. "A synergized pulsing-imaging network (spin)." WO2019113428A1. [link](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2019113428&_cid=P22-KBSTI1-51183-1)
+2. Ge Wang, **Qing Lyu**, and Hongming Shan. "Dynamic Imaging and Motion Artifact Reduction Through Deep Learning." US 2022/0292641. [link](https://patentscope.wipo.int/search/en/detail.jsf?docId=US374016070&_cid=P11-L8LKUZ-83847-1)
