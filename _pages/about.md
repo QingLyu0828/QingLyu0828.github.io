@@ -68,5 +68,5 @@ Conference
 
 Patent
 ------
-1. Ge Wang, **Qing Lyu**, and Tao Xu. "A synergized pulsing-imaging network (spin)." WO2019113428A1. [link](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2019113428&_cid=P22-KBSTI1-51183-1)
-2. Ge Wang, **Qing Lyu**, and Hongming Shan. "Dynamic Imaging and Motion Artifact Reduction Through Deep Learning." US 2022/0292641. [link](https://patentscope.wipo.int/search/en/detail.jsf?docId=US374016070&_cid=P11-L8LKUZ-83847-1)
+1. Ge Wang, **Qing Lyu**, and Tao Xu. "A synergized pulsing-imaging network (spin)." WO 2019/113428 A1. [link](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2019113428&_cid=P22-KBSTI1-51183-1)
+2. Ge Wang, **Qing Lyu**, and Hongming Shan. "Dynamic Imaging and Motion Artifact Reduction Through Deep Learning." US 2022/0292641 A1. [link](https://patentscope.wipo.int/search/en/detail.jsf?docId=US374016070&_cid=P11-L8LKUZ-83847-1)
