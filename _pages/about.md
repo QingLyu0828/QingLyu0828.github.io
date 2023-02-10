@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoc Research Associate in Prof. Ge Wang's lab of Rensselaer Polytechnic Institute. Since 2017, I have joined Prof. Ge Wang's [AI-based X-ray Imaging System Lab](https://wang-axis.github.io/) and obtained PhD degree this year. My primary research interest is in combination of medical imaging with deep learning for diagnosis and treatment. I have been acting as the reviewer for MICCAI, IEEE Transactions on Computational imaging, IEEE Transactions on Medical Imaging, IEEE Journal of Biomedical and Health Informatics, IEEE Access, and Medical Physics.
+I am serving as an Assistant Professor in the Department of Radiology of Wake Forest University School of Medicine. My primary research interests are using artificial intelligence especially deep learning for medical image analysis and clinical application translation. I have been acting as the reviewer for MICCAI, IEEE Transactions on Computational imaging, IEEE Transactions on Medical Imaging, IEEE Journal of Biomedical and Health Informatics, IEEE Access, and Medical Physics.
 
 Experience
 ======
-* Postdoc Research Associate in Rensselear Polytechnic Institute, 2022-present
+* Assistant Professor in Wake Forest University School of Medicine, 2023-present
+* Postdoc Research Associate in Rensselear Polytechnic Institute, 2022-2023
 
 Education
 ======
@@ -29,11 +30,12 @@ Teaching
 Research interest
 ======
 * **Deep radiomics/rawdiomics**: The utilization of neural networks to extract features from medical images for medical applications such as tumor detection, or from tomographic data directly (deep rawdiomics). 
-* **Hybrid/prompt learning**: The prompt learning scheme to implement disease diagnostics and treatment
+* **Medical image generation**: Use advanced generation models with radiologists' evaluation feedback to generate realistic medical images to mitigate the privacy and data collection concerns
 * **Medical instrumentation innovation**: AI-empowered system prototyping to synergize data acquisition and image reconstruction for targeted applications. 
-* **Generalizability of neural networks**: Investigate network generalizability so that it can be deployed on different imaging instruments for various tasks
-* **Robustness of neural networks**: Improve network robustness so that the network can perform well on data with various noise levels, adversarial attacks, and out-of-distribution data.
-* **Uncertainty of neural networks**: Quantify network uncertainty and show the reliability of predictions.
+* **MRI acceleration**: Use neural networks to boost the MRI data acquisition process and quantify the minimal data required for generating diagnosable images.
+* **Medical imaging modality synthesis**: Synthesize high quality medical images from other modalities to ease data acquistion difficulty.
+* **Uncertainty and generalizability of neural networks**: Quantify network uncertainty to show the reliability of predictions. Investigate network generalizability so that it can be deployed on different imaging instruments for various tasks.
+* **MRI standardization**: Standardize MRI pixel intensity accross differnt vendors and different scanning protocols. Reducing MRI inconsistency.
 
 Publication
 ======
