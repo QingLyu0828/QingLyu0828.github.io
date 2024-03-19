@@ -37,13 +37,13 @@ Teaching
 
 Research interest
 ======
+* **Medical generative AI**: Develop generative AI models for medical image improvement. 
+* **Diagnostic AI**: Develop AI models for disease diagnosis and treatment planning. 
 * **Deep radiomics/rawdiomics**: The utilization of neural networks to extract features from medical images for medical applications such as tumor detection, or from tomographic data directly (deep rawdiomics). 
-* **Medical image generation**: Use advanced generation models with radiologists' evaluation feedback to generate realistic medical images to mitigate the privacy and data collection concerns.
 * **Medical instrumentation innovation**: AI-empowered system prototyping to synergize data acquisition and image reconstruction for targeted applications. 
-* **MRI acceleration**: Use neural networks to boost the MRI data acquisition process and quantify the minimal data required for generating diagnosable images.
-* **Medical imaging modality synthesis**: Synthesize high quality medical images from other modalities to ease data acquistion difficulty.
+* **CT/MRI contrast media reduction**: Use neural networks to reduce the requirement of contrast dosage for contrast enhanced CT/MRI scans.
 * **Uncertainty and generalizability of neural networks**: Quantify network uncertainty to show the reliability of predictions. Investigate network generalizability so that it can be deployed on different imaging instruments for various tasks.
-* **MRI standardization**: Standardize MRI pixel intensity accross differnt vendors and different scanning protocols. Reducing MRI inconsistency.
+* **MRI harmonization**: Standardize MRI pixel intensity accross differnt vendors and different scanning protocols. Reducing data inconsistency among scanners.
 
 Publication
 ======
