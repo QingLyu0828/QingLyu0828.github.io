@@ -50,12 +50,15 @@ Publication
 
 Preprint
 ------
-1. **Qing Lyu**, Josh Tan, Megan Lipford, Chuang Niu, Micheal E Zapadka, Christopher T Whitlow,  and Ge Wang. "Head-Neck Dual-energy CT Contrast Media Reduction Using Diffusion Models." arXiv preprint. [pdf](https://https://arxiv.org/pdf/2308.13002.pdf)
-2. **Qing Lyu**, and Ge Wang. "Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models." arXiv preprint. [pdf](https://https://arxiv.org/pdf/2209.12104.pdf)
-3. **Qing Lyu**, Christopher T. Whitlow, and Ge Wang. "SoftDropConnect (SDC): A Method to Quantify Network Uncertainty in MR Image Analysis." arXiv preprint. [pdf](https://arxiv.org/pdf/2201.08418.pdf)
-4. **Qing Lyu**, Chenyu You, Hongming Shan, and Ge Wang. "Super-resolution MRI through deep learning." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1810/1810.06776.pdf)
-5. **Qing Lyu**, and Ge Wang. "Quantitative MRI: Absolute T1, T2 and Proton Density Parameters from Deep Learning." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1806/1806.07453.pdf)
-6. **Qing Lyu**, Tao Xu, Hongming Shan, and Ge Wang. "A Synergized Pulsing-Imaging Network (SPIN)." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1805/1805.12006.pdf)
+1. **Qing Lyu**, Hongyu Yuan, Zhen Lin, Richard Barcus, Jeremy Hudson, Yuming Jiang, Jeongchul Kim, and Christopher T Whitlow. "A Large Scale Multi-dataset Investigation of Brain Metastases Distribution Based on Primary Cancer Type." medRxiv preprint. [pdf](https://www.medrxiv.org/content/medrxiv/early/2024/10/01/2024.09.30.24314304.full.pdf)
+2. **Qing Lyu**, Jin Young Kim, Jeongchul Kim, and Christopher T Whitlow. "Synthesizing beta-amyloid PET images from T1-weighted Structural MRI: A Preliminary Study." arXiv preprint. [pdf](https://arxiv.org/pdf/2409.18282?)
+3. **Qing Lyu**, Hongyu Yuan, Zhen Lin, Janardhana Ponnatapura, and Christopher T Whitlow. "A novel prediction model for immunotherapy induced pneumonitis prediction based on Chest CT and electronic health record." medRxiv preprint. [pdf](https://www.medrxiv.org/content/10.1101/2024.10.14.24315487v1.full.pdf)
+4. **Qing Lyu**, Josh Tan, Megan Lipford, Chuang Niu, Micheal E Zapadka, Christopher T Whitlow,  and Ge Wang. "Head-Neck Dual-energy CT Contrast Media Reduction Using Diffusion Models." arXiv preprint. [pdf](https://https://arxiv.org/pdf/2308.13002.pdf)
+5. **Qing Lyu**, and Ge Wang. "Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models." arXiv preprint. [pdf](https://https://arxiv.org/pdf/2209.12104.pdf)
+6. **Qing Lyu**, Christopher T. Whitlow, and Ge Wang. "SoftDropConnect (SDC): A Method to Quantify Network Uncertainty in MR Image Analysis." arXiv preprint. [pdf](https://arxiv.org/pdf/2201.08418.pdf)
+7. **Qing Lyu**, Chenyu You, Hongming Shan, and Ge Wang. "Super-resolution MRI through deep learning." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1810/1810.06776.pdf)
+8. **Qing Lyu**, and Ge Wang. "Quantitative MRI: Absolute T1, T2 and Proton Density Parameters from Deep Learning." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1806/1806.07453.pdf)
+9. **Qing Lyu**, Tao Xu, Hongming Shan, and Ge Wang. "A Synergized Pulsing-Imaging Network (SPIN)." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1805/1805.12006.pdf)
 
 Journal
 ------
