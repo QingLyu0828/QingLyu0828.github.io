@@ -49,16 +49,6 @@ Research interest
 Publication
 ======
 
-Preprint
-------
-1. **Qing Lyu**, Jin Young Kim, Jeongchul Kim, and Christopher T Whitlow. "Synthesizing beta-amyloid PET images from T1-weighted Structural MRI: A Preliminary Study." arXiv preprint. [pdf](https://arxiv.org/pdf/2409.18282?)
-2. **Qing Lyu**, Josh Tan, Megan Lipford, Chuang Niu, Micheal E Zapadka, Christopher T Whitlow,  and Ge Wang. "Head-Neck Dual-energy CT Contrast Media Reduction Using Diffusion Models." arXiv preprint. [pdf](https://https://arxiv.org/pdf/2308.13002.pdf)
-3. **Qing Lyu**, and Ge Wang. "Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models." arXiv preprint. [pdf](https://https://arxiv.org/pdf/2209.12104.pdf)
-4. **Qing Lyu**, Christopher T. Whitlow, and Ge Wang. "SoftDropConnect (SDC): A Method to Quantify Network Uncertainty in MR Image Analysis." arXiv preprint. [pdf](https://arxiv.org/pdf/2201.08418.pdf)
-5. **Qing Lyu**, Chenyu You, Hongming Shan, and Ge Wang. "Super-resolution MRI through deep learning." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1810/1810.06776.pdf)
-6. **Qing Lyu**, and Ge Wang. "Quantitative MRI: Absolute T1, T2 and Proton Density Parameters from Deep Learning." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1806/1806.07453.pdf)
-7. **Qing Lyu**, Tao Xu, Hongming Shan, and Ge Wang. "A Synergized Pulsing-Imaging Network (SPIN)." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1805/1805.12006.pdf)
-
 Journal
 ------
 1. **Qing Lyu**, Hongyu Yuan, Zhen Lin, Janardhana Ponnatapura, and Christopher T Whitlow. "Predicting immunotherapy-induced pneumonitis based on chest CT and non-imaging data." Cancers, 2025. [link](https://www.mdpi.com/2072-6694/17/18/2980)
@@ -94,3 +84,13 @@ Patent
 ------
 1. Ge Wang, **Qing Lyu**, and Tao Xu. "A synergized pulsing-imaging network (spin)." WO 2019/113428 A1. [link](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2019113428&_cid=P22-KBSTI1-51183-1)
 2. Ge Wang, **Qing Lyu**, and Hongming Shan. "Dynamic Imaging and Motion Artifact Reduction Through Deep Learning." US 2022/0292641 A1. [link](https://patentscope.wipo.int/search/en/detail.jsf?docId=US374016070&_cid=P11-L8LKUZ-83847-1)
+
+Preprint
+------
+1. **Qing Lyu**, Jin Young Kim, Jeongchul Kim, and Christopher T Whitlow. "Synthesizing beta-amyloid PET images from T1-weighted Structural MRI: A Preliminary Study." arXiv preprint. [pdf](https://arxiv.org/pdf/2409.18282?)
+2. **Qing Lyu**, Josh Tan, Megan Lipford, Chuang Niu, Micheal E Zapadka, Christopher T Whitlow,  and Ge Wang. "Head-Neck Dual-energy CT Contrast Media Reduction Using Diffusion Models." arXiv preprint. [pdf](https://https://arxiv.org/pdf/2308.13002.pdf)
+3. **Qing Lyu**, and Ge Wang. "Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models." arXiv preprint. [pdf](https://https://arxiv.org/pdf/2209.12104.pdf)
+4. **Qing Lyu**, Christopher T. Whitlow, and Ge Wang. "SoftDropConnect (SDC): A Method to Quantify Network Uncertainty in MR Image Analysis." arXiv preprint. [pdf](https://arxiv.org/pdf/2201.08418.pdf)
+5. **Qing Lyu**, Chenyu You, Hongming Shan, and Ge Wang. "Super-resolution MRI through deep learning." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1810/1810.06776.pdf)
+6. **Qing Lyu**, and Ge Wang. "Quantitative MRI: Absolute T1, T2 and Proton Density Parameters from Deep Learning." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1806/1806.07453.pdf)
+7. **Qing Lyu**, Tao Xu, Hongming Shan, and Ge Wang. "A Synergized Pulsing-Imaging Network (SPIN)." arXiv preprint. [pdf](https://arxiv.org/ftp/arxiv/papers/1805/1805.12006.pdf)
