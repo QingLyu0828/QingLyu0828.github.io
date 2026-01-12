@@ -38,10 +38,10 @@ Teaching
 
 Research interest
 ======
-* **Medical generative AI**: Develop multimodality generative AI models for medical image generation. 
-* **Neuroimaging foundation models**: Develop neuroimaging foundation models for neuro-disease research such as Alzheimer's disease and autism spectrum disorder. 
-* **AI interpretability**: Investigate network interpretability to show the reliability of outcomes. 
-* **MRI harmonization**: Standardize MRI pixel intensity accross differnt vendors and different scanning protocols. Reducing data inconsistency among scanners.
+* **Medical Generative AI**: Develop multimodality generative AI models for medical image generation. 
+* **Neuroimaging Foundation Models**: Develop neuroimaging foundation models for neuro-disease research such as Alzheimer's disease and autism spectrum disorder. 
+* **AI Interpretability**: Investigate network interpretability to show the reliability of outcomes. 
+* **MRI Harmonization**: Standardize MRI pixel intensity accross differnt vendors and different scanning protocols. Reducing data inconsistency among scanners.
 
 Publication
 ======
