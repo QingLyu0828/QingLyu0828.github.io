@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Qing Lyu"
   avatar           : "me.JPG"
-  bio              : "Department of Radiology, Wake Forest University School of Medicine"
-  location         : "Winston-Salem, NC, 27103"
+  bio              : "Department of Radiology and Biomedical Imaging, Yale School of Medicine"
+  location         : "New Haven, CT, 06520"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=2oJmlPIAAAAJ&hl=en"
-  email            : "qlyu@wakehealth.edu"
+  email            : "qing.lyu@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
